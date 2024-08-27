@@ -1,5 +1,4 @@
 
-
 ```
 ## Stone Paper Scissor Game
 
@@ -12,19 +11,19 @@ A simple command-line "Stone, Paper, Scissor" game implemented in Java.
 ### How to Run
 
 1. **Clone the Repository**:
-   ```bash
+   ```
    git clone https://github.com/khushichodnekar/StonePaperScissor.git
    ```
 2. **Navigate to the project directory**:
-   ```bash
+   ```
    cd StonePaperScissor
    ```
 3. **Compile the Java file**:
-   ```bash
+   ```
    javac StonePaperScissor.java
    ```
 4. **Run the game**:
-   ```bash
+   ```
    java StonePaperScissor
    ```
 
