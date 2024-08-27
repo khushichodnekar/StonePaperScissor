@@ -1,14 +1,15 @@
 
 ```
-*Stone Paper Scissor Game*
+Stone Paper Scissor Game
 
-A simple command-line "Stone, Paper, Scissor" game implemented in Java. 
- Features
+A simple command-line "Stone, Paper, Scissor" game implemented in Java.
+
+ Features :
 - Play against the computer with randomized moves.
 - Tracks wins for both the player and the computer.
 - Declares a winner after a round
 
- How to Run
+ How to Run :
 
 1. Clone the Repository:
    ```
@@ -27,7 +28,7 @@ A simple command-line "Stone, Paper, Scissor" game implemented in Java.
    java StonePaperScissor
    ```
 
-How to Play
+How to Play :
 
 - Input Options:
   - Press `0` for Stone
