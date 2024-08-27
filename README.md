@@ -1,6 +1,6 @@
 
 ```
-Stone Paper Scissor Game
+*Stone Paper Scissor Game*
 
 A simple command-line "Stone, Paper, Scissor" game implemented in Java. 
  Features
